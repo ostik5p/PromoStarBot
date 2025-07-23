@@ -1,4 +1,5 @@
 import telebot
+from config2 import TOKEN, OWNER_ID
 from telebot import types
 from collections import defaultdict
 
